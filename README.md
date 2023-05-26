@@ -1,8 +1,13 @@
 ### Hi there 👋
 
 🛠️ Languages and Tools:
-- ![Git](![image](https://github.com/guptabhishek785/guptabhishek785/assets/36363608/1f80c34c-461c-4383-a221-3a598247a93d))
-
+ Programming: Python (NumPy, Pandas, Scikit-learn, OpenCV, PyTorch, NLTK), R, SQL, C, C++, Java and MySQL, Access.
+• Visualization: Power BI, Tableau, Python (Matplotlib, Seaborn) and R
+• Engineering Simulation, Forecasting, Mathematical modelling, CAD/ CAM/ CAE, Database Management
+• Technical/Analytical Skills: Data Wrangling and Cleaning, Data Analytics, Data Visualization, Lean Six Sigma 
+Techniques, Cloud technologies, Machine Learning (Supervised and Unsupervised), Bagging & Clustering, Natural Language 
+Processing (NLP), Supply Chain-Management, A/ B Testing, CI/ CD Pipelines, Computer Vision, Project Management
+• Tools: Git & GitHub, AWS, API Requests, Unit Testing, MS Office, Advanced Microsoft Excel (Solver, V-look Ups, Macros), LINUX
 
 Find me on the web here:
 <p align="left">
