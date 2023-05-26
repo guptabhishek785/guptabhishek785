@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-🛠️ Languages and Tools:
+🛠️ **Languages and Tools:**    
+
  Programming: Python (NumPy, Pandas, Scikit-learn, OpenCV, PyTorch, NLTK), R, SQL, C, C++, Java and MySQL, Access.  
 • Visualization: Power BI, Tableau, Python (Matplotlib, Seaborn) and R     
 • Engineering Simulation, Forecasting, Mathematical modelling, CAD/ CAM/ CAE, Database Management    
