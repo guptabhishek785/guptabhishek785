@@ -12,7 +12,10 @@ I am an Engineer with a passion for data
                                    Processing (NLP), Supply Chain-Management, A/ B Testing, CI/ CD Pipelines, Computer Vision, Project Management, Web Scraping    
 • **Tools:** Git & GitHub, AWS, API Requests, Unit Testing, MS Office, Advanced Microsoft Excel (Solver, V-look Ups, Macros), LINUX    
 
-Find me on the web here:
+### Resume
+
+
+### Find me on the web:
 <p align="left">
 <a href="https://www.linkedin.com/in/abhishekgupta785/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="40" /></a>
 <a href="https://www.instagram.com/abhi_gupta1845/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="40" /></a>
@@ -22,7 +25,7 @@ Find me on the web here:
 <!--
 **guptabhishek785/guptabhishek785** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### Find me on the web:
+
 
 
 
