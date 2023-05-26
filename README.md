@@ -1,14 +1,16 @@
 ### Hi there 👋
 
+I am an Engineer with a passion for data
+
 🛠️ **Languages and Tools:**    
 
- Programming: Python (NumPy, Pandas, Scikit-learn, OpenCV, PyTorch, NLTK), R, SQL, C, C++, Java and MySQL, Access.  
-• Visualization: Power BI, Tableau, Python (Matplotlib, Seaborn) and R     
-• Engineering Simulation, Forecasting, Mathematical modelling, CAD/ CAM/ CAE, Database Management    
-• Technical/Analytical Skills: Data Wrangling and Cleaning, Data Analytics, Data Visualization, Lean Six Sigma    
-Techniques, Cloud technologies, Machine Learning (Supervised and Unsupervised), Bagging & Clustering, Natural Language    
-Processing (NLP), Supply Chain-Management, A/ B Testing, CI/ CD Pipelines, Computer Vision, Project Management    
-• Tools: Git & GitHub, AWS, API Requests, Unit Testing, MS Office, Advanced Microsoft Excel (Solver, V-look Ups, Macros), LINUX    
+• **Programming:** Python (NumPy, Pandas, Scikit-learn, OpenCV, PyTorch, NLTK), R, SQL, C, C++, Java and MySQL, Access.  
+• **Visualization:** Power BI, Tableau, Python (Matplotlib, Seaborn) and R     
+• **Engineering:** Simulation, Forecasting, Mathematical modelling, CAD/ CAM/ CAE, Database Management    
+• **Technical/Analytical Skills:** Data Wrangling and Cleaning, Data Analytics, Data Visualization, Lean Six Sigma    
+                                   Techniques, Cloud technologies, Machine Learning (Supervised and Unsupervised), Bagging & Clustering, Natural Language    
+                                   Processing (NLP), Supply Chain-Management, A/ B Testing, CI/ CD Pipelines, Computer Vision, Project Management, Web Scraping    
+• **Tools:** Git & GitHub, AWS, API Requests, Unit Testing, MS Office, Advanced Microsoft Excel (Solver, V-look Ups, Macros), LINUX    
 
 Find me on the web here:
 <p align="left">
