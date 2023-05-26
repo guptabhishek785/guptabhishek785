@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+🛠️ Languages and Tools:
+- ![Git](![image](https://github.com/guptabhishek785/guptabhishek785/assets/36363608/1f80c34c-461c-4383-a221-3a598247a93d))
+
+
+Find me on the web here:
 <p align="left">
 <a href="https://www.linkedin.com/in/abhishekgupta785/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="40" /></a>
 <a href="https://www.instagram.com/abhi_gupta1845/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="40" /></a>
