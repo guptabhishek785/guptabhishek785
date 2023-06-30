@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I am an Engineer with a passion for data
+I am an engineering archer, stringing together the strands of data to release transformative arrows of innovation!!!
+
 
 🛠️ **Languages and Tools:**    
 
