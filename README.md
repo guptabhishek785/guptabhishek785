@@ -2,6 +2,7 @@
 
 I am an engineering archer, stringing together the strands of data to release transformative arrows of innovation!!!
 
+I see myself at the intersection of Business Strategy and Data Science, working to meet Customer expectations by effectively managing Business processes, Supply Chain operations, and Product Development. I achieve this through the application of Computer Science & Statistical Analysis, employing simple but impactful ideas.
 
 🛠️ **Languages and Tools:**    
 
